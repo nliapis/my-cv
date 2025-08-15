@@ -1,4 +1,4 @@
-# Nikos L.
+# Nikos Liapis
 **Senior Full Stack Developer**
 📧 niapis1983@gmail.com | 📱 +30 6942783210 | 🌐 [LinkedIn](https://www.linkedin.com/in/nikos-l-7bb31a90/) | 📍 Remote • Greece
 
