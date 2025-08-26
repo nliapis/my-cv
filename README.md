@@ -1,6 +1,6 @@
 # Nikos Liapis
 **Senior Full Stack Developer**
-📧 niapis1983@gmail.com | 📱 +30 6942783210 | 🌐 [LinkedIn](https://www.linkedin.com/in/nikos-l-7bb31a90/) | 📍 Remote • Greece
+📧 niapis1983@gmail.com | 📱 +30 6942783210 | 🌐 [LinkedIn](https://www.linkedin.com/in/nliapis/) | 📍 Remote • Greece
 
 ---
 
@@ -26,6 +26,10 @@ Senior Full Stack Developer with **12+ years of experience** building scalable w
 - Built full-stack applications with TypeScript, React.js, Angular.js, Node.js, Express, and PostgreSQL.
 - Designed scalable APIs and optimized DB queries for performance.
 - Collaborated remotely with distributed teams using async workflows.
+
+**Software Engineer** – [Securus Technologies](https://securustechnologies.tech) (2022–2025)
+- Developed full-stack web applications to enhance communication for incarcerated individuals, ensuring user-friendly interfaces.
+- Collaborated with cross-functional teams to conduct system design and code reviews, improving overall code quality.  
 
 **Frontend Engineer** – [yilu](https://yilu.com) (2019–2020)
 - Developed React.js interfaces with modern JS patterns.
